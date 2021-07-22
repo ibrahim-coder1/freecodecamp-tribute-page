@@ -1,0 +1,96 @@
+body {
+    background-color: #eeeeee;
+  }
+  
+  /* Header CSS Start */
+  
+  header {
+    text-align: center;
+  }
+  
+  #title {
+    font-size: 4rem;
+  }
+  
+  header p {
+    font-size: 1.6em;
+  }
+  
+  /* Header CSS end */
+  
+  /* image CSS Start */
+  
+  #img-div {
+    background-color: white;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  #image {
+    width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    font-size: 18px;
+  }
+  
+  /* image CSS END */
+  
+  /* Tribute info CSS Start */
+  
+  #tribute-info {
+    max-width: 550px;
+    margin: auto;
+  }
+  
+  #tribute-info h3 {
+    font-size: 2rem;
+    margin: 70px 0;
+    text-align: center;
+  }
+  
+  #info {
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+  #info li {
+    margin-bottom: 20px;
+  }
+  
+  /* Tribute info CSS end */
+  
+  /* quit CSS Start */
+  
+  #quit {
+    max-width: 550px;
+    margin: auto;
+  }
+  
+  blockquote {
+    margin-top: 50px;
+    font-style: italic;
+    line-height: 1.5;
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+  cite {
+    margin-left: 70px;
+  }
+  
+  /* quit CSS end */
+  
+  /* Tribute link CSS Start */
+  
+  #tribute-link {
+    margin: 50px;
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  /* Tribute link CSS end */
+  
